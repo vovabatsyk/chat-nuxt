@@ -1,7 +1,7 @@
 {
   "name": "vue-chat",
   "version": "1.0.0",
-  "description": "My world-class Nuxt.js project",
+  "description": "My chat Nuxt.js project",
   "author": "Vova Batsyk",
   "private": true,
   "scripts": {
@@ -16,7 +16,10 @@
     "express": "^4.16.4",
     "nuxt": "^2.0.0",
     "socket.io": "^2.3.0",
-    "vue-socket.io": "^3.0.7"
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-socket.io": "^3.0.7",
+    "vuelidate": "^0.7.5"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
